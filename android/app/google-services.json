@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21646170434",
+    "project_id": "moneymachine-1",
+    "storage_bucket": "moneymachine-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21646170434:android:4fc91c8b6afa7df750d0db",
+        "android_client_info": {
+          "package_name": "com.anonymous.moneyMachine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UmmltWwOvpSN8X4VdPyrIv-j_taEmiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
